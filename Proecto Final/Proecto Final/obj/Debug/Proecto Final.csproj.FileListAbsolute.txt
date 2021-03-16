@@ -6,6 +6,6 @@ C:\Users\Christian\Desktop\CHRISTIAN\Programacion III\Proecto Final\Proecto Fina
 C:\Users\Christian\Desktop\CHRISTIAN\Programacion III\Proecto Final\Proecto Final\obj\Debug\Proecto Final.csproj.GenerateResource.Cache
 C:\Users\Christian\Desktop\CHRISTIAN\Programacion III\Proecto Final\Proecto Final\obj\Debug\Proecto Final.exe
 C:\Users\Christian\Desktop\CHRISTIAN\Programacion III\Proecto Final\Proecto Final\obj\Debug\Proecto Final.pdb
-C:\Users\Christian\Desktop\CHRISTIAN\Programacion III\Proecto Final\Proecto Final\obj\Debug\Proecto_Final.menufacilitador.resources
-C:\Users\Christian\Desktop\CHRISTIAN\Programacion III\Proecto Final\Proecto Final\obj\Debug\Proecto_Final.menuparticipante.resources
 C:\Users\Christian\Desktop\CHRISTIAN\Programacion III\Proecto Final\Proecto Final\obj\Debug\Proecto_Final.Matematica.resources
+C:\Users\Christian\Desktop\CHRISTIAN\Programacion III\Proecto Final\Proecto Final\obj\Debug\Proecto_Final.facilitador.resources
+C:\Users\Christian\Desktop\CHRISTIAN\Programacion III\Proecto Final\Proecto Final\obj\Debug\Proecto_Final.Participante.resources
